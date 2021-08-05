@@ -1,0 +1,8 @@
+{
+    "$CPU$": "1",
+    "$HDD$": "6",
+    "$IMAGE$": "https://cloud.centos.org/centos/7/images/CentOS-7-x86_64-GenericCloud.qcow2",
+    "$OS$": "centos7",
+    "$RAM$": "1024",
+    "$TIME$": "50"
+}

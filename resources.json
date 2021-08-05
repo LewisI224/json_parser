@@ -1,0 +1,50 @@
+[
+  {
+    "$OS$": "debian",
+    "$CPU$": "1",
+    "$RAM$": "256",
+    "$HDD$": "30",
+    "$TIME$": "50",
+    "$IMAGE$": "/images/debian_18.04.iso"
+  },
+  {
+    "$OS$": "mint",
+    "$CPU$": "2",
+    "$RAM$": "512",
+    "$HDD$": "30",
+    "$TIME$": "50",
+    "$IMAGE$": "/images/mint_18.04.iso"
+  },
+  {
+    "$OS$": "arch",
+    "$CPU$": "3",
+    "$RAM$": "4096",
+    "$HDD$": "30",
+    "$TIME$": "50",
+    "$IMAGE$": "/images/arch_18.04.iso"
+  },
+  {
+    "$OS$": "kali",
+    "$CPU$": "4",
+    "$RAM$": "3072",
+    "$HDD$": "30",
+    "$TIME$": "50",
+    "$IMAGE$": "/images/kali_18.04.iso"
+  },
+  {
+    "$OS$": "centos7",
+    "$CPU$": "1",
+    "$RAM$": "1024",
+    "$HDD$": "6",
+    "$TIME$": "50",
+    "$IMAGE$": "https://cloud.centos.org/centos/7/images/CentOS-7-x86_64-GenericCloud.qcow2"
+  },
+  {
+    "$OS$": "ubuntu",
+    "$CPU$": "6",
+    "$RAM$": "1024",
+    "$HDD$": "30",
+    "$TIME$": "50",
+    "$IMAGE$": "/images/ubuntu_18.04.iso"
+  }
+]
